@@ -6,6 +6,6 @@ Then summarize stock with highest/lowest increase and total stock volume.
 
 Excel file - shows results of running the VBA Script
 
-VBA Script - code that performs the data summarizations
+VBA Script - code that performs the data summarizations.  Press Get Stats button in 2018 tab of Excel worksheet to execute VBA Script.
 
 Word Doc - screen shots of results as requested in instructions.
