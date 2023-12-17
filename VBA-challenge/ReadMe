@@ -1,1 +1,11 @@
 Module 2 VBA Challenge
+Shannon Landis December 2023
+
+Write a VBA Script to summarize by Ticker the change in opening price vs closing price and stock volume.
+Then summarize stock with highest/lowest increase and total stock volume.
+
+Excel file - shows results of running the VBA Script
+
+VBA Script - code that performs the data summarizations
+
+Word Doc - screen shots of results as requested in instructions.
