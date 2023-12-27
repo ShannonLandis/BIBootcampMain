@@ -2,18 +2,6 @@
 #Shannon Landis
 # Dec 26, 2023
 
-#*****************************************************************
-
-
-
-#STILL HAVE TO WRITE OUT TO A FILE IN THE ANALYSIS folder
-# DOES IT MATTER THAT MY FILE CANNOT BE REACHED USING ..
-
-
-
-#*****************************************************************************************
-
-
 
 # import libraries
 import os
