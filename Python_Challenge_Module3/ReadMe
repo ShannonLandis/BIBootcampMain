@@ -1,1 +1,16 @@
+Shannon Landis
+Python Challenge Module 3
+December 2023
 
+PyBank
+main.py reads the budget_data.csv which holds profits/losses by date
+the program reads the data and summarizes profit/loss data
+the summary is written to the terminal
+and is written to PyBank_Results.txt in the analysis folder
+
+
+PyPoll
+main.py reads the election_data.csv which holds candidate ballot data
+the program reads the data and summarizes the bote data
+the summary is written to the terminal
+and is written to PyPoll_Results.txt in the analysis folder
